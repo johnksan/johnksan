@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnksan
 - 👀 I’m interested in DevOps, Algorithms
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Embedded Software development, DevOps
+- 💞️ I’m looking to collaborate on Embedded Software development, DevOps
 - 📫 How to reach me ...
 
 <!---
